@@ -22,7 +22,7 @@ A powerful Discord bot that provides real-time cryptocurrency information and AI
 
 - `!analyze <symbol>` - Get detailed market analysis
   ```
-  Example: !analyze ETH
+  Example: !analyze APT
   ```
   Provides comprehensive analysis including:
   - Market trend
@@ -43,8 +43,8 @@ A powerful Discord bot that provides real-time cryptocurrency information and AI
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/crypto-trading-bot.git
-   cd crypto-trading-bot
+   git clone https://github.com/esslm/Trading-Discord-Bot.git
+   cd Trading-Discord-Bot
    ```
 
 2. Install dependencies
@@ -90,8 +90,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/crypto-trading-bot/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/esslm/Trading-Discord-Bot/issues).
 
 ## 🌟 Show your support
 
 Give a ⭐️ if this project helped you!
+
+## ✨ Contact 
+
+Discord : @61z.
+<br>
+Instagram : @ia1q_
+<br>
+X : @ia1q_
